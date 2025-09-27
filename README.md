@@ -32,6 +32,6 @@ A multi-tenant SaaS Notes Application allowing multiple companies (tenants) to s
 ## Tech Stack
 
 - Node.js / Express (Backend)
-- React / Next.js (Frontend)
+- React  (Frontend)
 - JWT Authentication
 - Vercel Deployment
